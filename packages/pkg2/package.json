@@ -1,0 +1,26 @@
+{
+  "name": "pkg2",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "AbhinavTricon <abhinav.negi@triconinfotech.com>",
+  "homepage": "https://github.com/AbhinavTricon/lerna#readme",
+  "license": "ISC",
+  "main": "lib/pkg2.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbhinavTricon/lerna.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/pkg2.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/AbhinavTricon/lerna/issues"
+  }
+}
