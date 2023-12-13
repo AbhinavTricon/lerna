@@ -1,6 +1,6 @@
 {
   "name": "pkg2",
-  "version": "10.11.11",
+  "version": "10.11.12",
   "description": "> TODO: description",
   "author": "AbhinavTricon <abhinav.negi@triconinfotech.com>",
   "homepage": "https://github.com/AbhinavTricon/lerna#readme",
@@ -23,5 +23,5 @@
     "url": "https://github.com/AbhinavTricon/lerna/issues"
   },
   "keywords": [],
-  "gitHead": "8e72727e0352df6f6288577c1be227ccf7dec188"
+  "gitHead": "1dc0c6677e23a221ba5659844fa4b57a42899312"
 }
