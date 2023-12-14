@@ -1,8 +1,8 @@
 {
   "name": "leadinsights-react-button-component",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": false,
-  "license":"ISC",
+  "license": "ISC",
   "main": "index.js",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
