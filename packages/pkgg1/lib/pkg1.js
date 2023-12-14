@@ -3,5 +3,5 @@
 module.exports = greet;
 
 function greet() {
-  return 'Hello from pkg1';
+  return 'Hello from pkgg1';
 }

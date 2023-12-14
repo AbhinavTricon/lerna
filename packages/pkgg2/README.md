@@ -1,11 +1,11 @@
-# `pkg2`
+# `pkgg2`
 
 > TODO: description
 
 ## Usage
 
 ```
-const pkg2 = require('pkg2');
+const pkgg2 = require('pkgg2');
 
 // TODO: DEMONSTRATE API
 ```

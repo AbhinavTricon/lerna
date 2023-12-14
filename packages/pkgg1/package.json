@@ -1,5 +1,5 @@
 {
-  "name": "pkg1",
+  "name": "pkgg1",
   "version": "11.2.0",
   "description": "> TODO: description",
   "author": "AbhinavTricon <abhinav.negi@triconinfotech.com>",
@@ -17,11 +17,11 @@
     "url": "git+https://github.com/AbhinavTricon/lerna.git"
   },
   "scripts": {
-    "test": "node ./__tests__/pkg1.test.js"
+    "test": "node ./__tests__/pkgg1.test.js"
   },
   "bugs": {
     "url": "https://github.com/AbhinavTricon/lerna/issues"
   },
   "keywords": [],
-  "gitHead": "1dc0c6677e23a221ba5659844fa4b57a42899312"
+  "gitHead": "69dd290d1beb43abc3dae4a578b2c31abaf6b51e"
 }

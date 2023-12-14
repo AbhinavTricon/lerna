@@ -1,6 +1,6 @@
 // test.js
-const pkg1 = require('./packages/pkg1'); 
-const pkg2 = require('./packages/pkg2'); 
+const pkgg1 = require('./packages/pkgg1'); 
+const pkgg2 = require('./packages/pkgg2'); 
 
-console.log(pkg1.greet());
-console.log(pkg2.greet());
+console.log(pkgg1.greet());
+console.log(pkgg2.greet());
