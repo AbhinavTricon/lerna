@@ -1,0 +1,14 @@
+
+.toast-button-container{
+  text-align: center;
+  margin-top: 15%;
+}
+
+.toast-button{
+  color: white;
+  background-color: black;
+  padding: 10px 10px;
+  border-radius: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  cursor: pointer;
+}
